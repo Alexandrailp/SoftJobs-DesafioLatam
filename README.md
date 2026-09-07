@@ -12,8 +12,8 @@ Plataforma backend y frontend para la autenticación y autorización de desarrol
 
 ### 🗄️ Base de Datos (PostgreSQL)
 
-Abre tu terminal de PostgreSQL (psql).  
-Ejecuta el script oficial para crear la base de datos softjobs y la tabla usuarios: 
+1. Abre tu terminal de PostgreSQL (psql).  
+2. Ejecuta el script oficial para crear la base de datos softjobs y la tabla usuarios: 
 
 ```sql
 CREATE DATABASE softjobs;
@@ -29,9 +29,8 @@ CREATE TABLE usuarios (
 ```
 
 ## 🚀 Instalación y ejecución
-
-1. Backend
-Navega al directorio del backend:
+- Backend
+1. Navega al directorio del backend:
 ```Bash
 cd backend
 npm install
@@ -40,8 +39,8 @@ node index.js
 IMPORTANTE!!💀 Verifica las credenciales de conexión en backend/index.js (usuario, host y contraseña de tu PostgreSQL local).
 _Servidor disponible en http://localhost:3000._
 
-2. Frontend
-Abre una segunda terminal y entra a la carpeta del cliente:
+- Frontend
+1. Abre una segunda terminal y entra a la carpeta del cliente:
 ```Bash
 cd frontend
 npm install
