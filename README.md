@@ -10,8 +10,6 @@ Plataforma backend y frontend para la autenticación y autorización de desarrol
 
 ## ⚙️ Configuración 
 
---
-
 ### 🗄️ Base de Datos (PostgreSQL)
 
 Abre tu terminal de PostgreSQL (psql).  
