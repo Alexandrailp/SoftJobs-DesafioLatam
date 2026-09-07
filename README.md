@@ -36,7 +36,7 @@ cd backend
 npm install
 node index.js
 ```
-IMPORTANTE!!💀 Verifica las credenciales de conexión en backend/index.js (usuario, host y contraseña de tu PostgreSQL local).
+- IMPORTANTE!!💀 Verifica las credenciales de conexión en backend/index.js (usuario, host y contraseña de tu PostgreSQL local).
 _Servidor disponible en http://localhost:3000._
 
 - Frontend
